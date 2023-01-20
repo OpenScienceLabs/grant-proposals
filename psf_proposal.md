@@ -69,7 +69,9 @@ Objective *:
 
 - What is the objective of your event/project?
 
-  Provide an up-to-date template with the best tools for creating Python packages.
+  Improve a project template (for cookiecutter or cookieninja) that implements all (as much as possible) the best practices recomended by pyOpenSci, but not restricted to that, in order to offer all the current best practices approaches and tools as options, including CI, documentation, static analysis tools, etc. So anyone who wants to start a fresh project, would be able to start with a very good structure and workflow.
+
+Additionally, part of the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
 
 
 - Beneficiaries *:

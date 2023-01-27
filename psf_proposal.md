@@ -8,7 +8,7 @@
 
   - Legal Last Name *: Ogasawara
 
-  - Nickname:
+  - Nickname: xmnlab
 
   - Email *: ivan.ogasawara@gmail.com
 

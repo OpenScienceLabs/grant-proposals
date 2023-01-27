@@ -47,23 +47,23 @@ Company or organizing organization, example: Chicago PyLadies
 
 - FAQ & Grants Program Info *: I have read and understand these pages.
 
-Date *: 03/06/2023
+- Date *: 03/06/2023
 
-Event’s/project’s website *: https://github.com/osl-incubator/cookiecutter-python.git
+- Event’s/project’s website *: https://github.com/osl-incubator/cookiecutter-python.git
 
-Requested Grant Amount (USD) *: 2000
+- Requested Grant Amount (USD) *: 2000
 
-Grant Amount Breakdown *: All the money will be used for development work. This includes maintenance of the cookiecutter
+- Grant Amount Breakdown *: All the money will be used for development work. This includes maintenance of the cookiecutter
 
-Budget *: https://docs.google.com/spreadsheets/d/1-LPboqqtHI7Q-3H0yij5ZcwYik7Os5tqu7h2bhJeqXM/edit?usp=sharing
+- Budget *: https://docs.google.com/spreadsheets/d/1-LPboqqtHI7Q-3H0yij5ZcwYik7Os5tqu7h2bhJeqXM/edit?usp=sharing
 
-Objective *:
+- Objective *:
 
-- What is the objective of your event/project?
+  - What is the objective of your event/project?
 
-  Improve a project template (for cookiecutter or cookieninja) that implements all (as much as possible) the best practices recommended by pyOpenSci, but not restricted to that, in order to offer all the current best practices approaches and tools as options, including CI, documentation, static analysis tools, etc. So anyone who wants to start a fresh project, would be able to start with a very good structure and workflow.
+    Improve a project template (for cookiecutter or cookieninja) that implements all (as much as possible) the best practices recommended by pyOpenSci, but not restricted to that, in order to offer all the current best practices approaches and tools as options, including CI, documentation, static analysis tools, etc. So anyone who wants to start a fresh project, would be able to start with a very good structure and workflow.
 
-  Additionally, the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
+    Additionally, the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
 
 - Beneficiaries *:
 

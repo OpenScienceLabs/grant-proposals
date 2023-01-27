@@ -52,19 +52,16 @@ Company or organizing organization, example: Chicago PyLadies
     https://www.python.org/psf/grants
     https://www.python.org/psf/grants/free-resources/
 
-Date *: 
-MM/DD/YYYY
+Date *: 03/06/2023
 Provide the start date for your event/project
 Event’s/project’s website *:
 
-Requested Grant Amount (USD) *: 
+Requested Grant Amount (USD) *: 2000
 
-Grant Amount Breakdown *:
+Grant Amount Breakdown *: All the money will be used for development work
 
-What amount are you requesting from the PSF? If the grant is funding several components of a project/event, please provide a breakdown of what the funding will be used for. Example: Our event is requesting $1500 total ($1000 for captioning/transcripts, $500 for improved internet bandwidth for speakers).
+Budget *: https://docs.google.com/spreadsheets/d/1-LPboqqtHI7Q-3H0yij5ZcwYik7Os5tqu7h2bhJeqXM/edit?usp=sharing 
 
-Budget *:
-Please include a link to a budget for the event or project work. This should show us an overview of all expenses and expected revenues. If you need to submit the budget via a document, please note that here and attach the document once you get to the "Other" section of this application.
 Objective *: 
 
 - What is the objective of your event/project?
@@ -74,17 +71,16 @@ Objective *:
 Additionally, part of the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
 
 
-- Beneficiaries *:
-    Provide a description of the beneficiaries of this grant. If this request is for a sprint or virtual event, please tell us how many people are expected to attend. (e.g. if the grant is for a Python User Group (PUG) event, state the size of the group, the anticipated size of the event, and who in particular from the PUG benefits from the grant).
-    Regional Support
-    If you have funds remaining after your [event/development/etc], how do you plan to use them? For example: will your organization use remaining funding to help support regional Python efforts? Will remaining funds be saved for the next event? If so, please tell us about it!
+- Beneficiaries *: With this grant we plan to contract 2 people from our current
+    group of collaborators. Yurely Camacho and Anavelyz Perez they are recent
+    graduates in statistics, they live in Merida Venezuela, they are
+    enthusiastic about open science and programming languages like Python.
 
 - Link to Code of Conduct *: https://opensciencelabs.org/guidelines/mentoring/en/coc/ 
 
-    Provide a link to your code of conduct. We require that your code of conduct be listed on the event website as well. Meetup.com Requests: a link to, or the full text of your CoC must be in the "About" section of your Meetup page, or we cannot send you an invite to the PSF Meetup Group
-
-- Percentage of Python *: 100%
+- Percentage of Python *:
     What percentage of your event/project will concentrate on Python?
+    100%
 
 - Follow-up activities *:
     Provide a description of the planned grant follow-up activities. If this grant is approved, we will send you a link to our report form. In addition to that, we want to know how post event/project information will be shared with the community. This could be blog postings, post-event write-ups, web pages, project updates, where recordings will be posted, etc.

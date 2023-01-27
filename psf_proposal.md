@@ -59,11 +59,14 @@ Company or organizing organization, example: Chicago PyLadies
 
 - Objective *:
 
-  - What is the objective of your event/project?
+  Improve a project template (for cookiecutter or cookieninja) that implements
+  all (as much as possible) the best practices recommended by pyOpenSci, but not
+  restricted to that, in order to offer all the current best practices
+  approaches and tools as options, including CI, documentation, static analysis
+  tools, etc. So anyone who wants to start a fresh project, would be able to
+  start with a very good structure and workflow.
 
-    Improve a project template (for cookiecutter or cookieninja) that implements all (as much as possible) the best practices recommended by pyOpenSci, but not restricted to that, in order to offer all the current best practices approaches and tools as options, including CI, documentation, static analysis tools, etc. So anyone who wants to start a fresh project, would be able to start with a very good structure and workflow.
-
-    Additionally, the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
+  Additionally, the grant would help us to maintain it for some months, in order to update the pinnings for the libraries and some configuration changes.
 
 - Beneficiaries *:
 
@@ -78,7 +81,6 @@ Company or organizing organization, example: Chicago PyLadies
 - Link to Code of Conduct *: https://opensciencelabs.org/guidelines/mentoring/en/coc/ 
 
 - Percentage of Python *:
-    What percentage of your event/project will concentrate on Python?
     100%
 
 - Follow-up activities *:

@@ -8,7 +8,7 @@
 
   - Legal Last Name *: Ogasawara
 
-  - Nickname:
+  - Nickname: xmnlab
 
   - Email *: ivan.ogasawara@gmail.com
 
@@ -26,7 +26,7 @@
 
   - Postal Code Suffix:
 
-  - Phone Number *:
+  - Phone Number *: +591 69757089
 
 - Organization
 

@@ -4,29 +4,7 @@
 
 - Contact
 
-  - Legal First Name*: Ivan
-
-  - Legal Last Name *: Ogasawara
-
-  - Nickname: xmnlab
-
-  - Email *: ivan.ogasawara@gmail.com
-
-- Address (selection)
-
-  - City *: La Paz
-
-  - Country*: Bolivia
-
-  - State/Province/Region: La Paz
-
-  - Region Other:
-
-  - Postal Code:
-
-  - Postal Code Suffix:
-
-  - Phone Number *: +591 69757089
+  > Information related to someone on the OSL Steering Council>
 
 - Organization
   

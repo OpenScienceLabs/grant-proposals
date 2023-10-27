@@ -67,7 +67,7 @@
   Also at OSL we want to apply for the PyOpenSci review process, so this
   grant will be used to review all the evaluation criteria, present the
   project there and apply the suggestions from the review process. It is
-  very important for us to be able to apply to PyOPenSci as it is, if
+  very important for us to be able to apply to PyOpenSci as it is, if
   accepted, will allow us to raise awareness of our package and thus
   contribute to the development of the Python and open source community.  
 

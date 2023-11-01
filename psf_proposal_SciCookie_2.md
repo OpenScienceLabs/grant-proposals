@@ -89,13 +89,7 @@
   wants to create a Python package.
 
   With this grant, we plan to contract 4 people from our current group
-  of collaborators in OSL. Yurely Camacho and Anavelyz Perez are
-  recently graduated in statistics, they live in Merida-Venezuela, and
-  they are enthusiastic about open science and programming languages
-  like Python. They contributed to the translation of the documentation
-  at Spanish of the library scikit-learn. Other person responsible of
-  Project management and one Developer Senior for Review and quality
-  assurance.
+  of collaborators in OSL. The main two developers are Yurely Camacho and Anavelyz Perez based in Merida-Venezuela, recently graduated in statistics and they are enthusiastic about open science and programming languages like Python. They contributed to the translation of the documentation at Spanish of the library scikit-learn. Additionaly, a project manager and one Senior developer that will perform the review and quality assurance will be contracted.
 
   They will also be accompanied and mentored mainly by Ivan Ogasawara, a
   member of the Open Science Labs steering council. He has been chair of

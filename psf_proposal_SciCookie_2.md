@@ -71,10 +71,6 @@
   accepted, will allow us to raise awareness of our package and thus
   contribute to the development of the Python and open source community.  
 
-  Remember that this template project tool allows the user to automate the process of
-  creating a Python project using a template that has updated
-  technologies that are considered the most appropriate. The options can
-  be configured according to our needs.
 
   We are looking for Open science labs to grow and to be known by the
   Python community, we have promoted some Python meetings (pycafe)

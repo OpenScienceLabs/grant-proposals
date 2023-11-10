@@ -58,7 +58,7 @@
 
 - Objective *:
 
-  Enhance the SciCookie project template by reducing technical debt related to maintenance, dependencies and build system. Currently, this template project tool allows the user to automate the process of creating a Python project with all the necessary up-to-date technologies. Via configuration options, each user is able to establish their unique set of dependencies. With the work planned for this grant, the changes will allow an improved user experience while guaranteeing a robust cookie cutter template.
+  Enhance the SciCookie project template by reducing technical debt related to maintenance, dependencies and build system. Currently, this template project tool allows the user to automate the process of creating a Python project with all the necessary up-to-date technologies. Via configuration options, each user is able to establish their unique set of dependencies. With the work planned for this grant, the changes will allow an improved user experience while guaranteeing a robust project template options.
 
   Also at OSL we want to apply for the PyOpenSci review process, so this
   grant will be used to review all the evaluation criteria, present the

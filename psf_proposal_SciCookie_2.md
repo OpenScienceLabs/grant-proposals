@@ -49,7 +49,7 @@
 
 - Event’s/project’s website *: https://github.com/osl-incubator/scicookie
 
-- Requested Grant Amount (USD) *: 2920
+- Requested Grant Amount (USD) *: 3100.00
 
 - Grant Amount Breakdown *: The money will be used for development work,
   maintenance, project management and review.

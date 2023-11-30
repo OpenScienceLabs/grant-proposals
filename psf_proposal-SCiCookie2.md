@@ -101,7 +101,6 @@
   creating a Python project using a template that has updated
   technologies that are considered the most appropriate. The options can
   be configured according to our needs.
->>>>>>> f522592 (add changes in proposal)
 
 =======
 >>>>>>> 92955ef (update proposal)

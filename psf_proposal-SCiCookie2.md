@@ -96,7 +96,6 @@
   contribute to the development of the Python and open source community.  
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   This cookiecutter allows you to automate the process of
   creating a Python project using a template that has updated

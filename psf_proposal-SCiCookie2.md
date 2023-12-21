@@ -45,7 +45,7 @@
 
 - FAQ & Grants Program Info *: I have read and understand these pages.
 
-- Date *: 01/15/2024
+- Date *: 02/06/2024
 
 - Event’s/project’s website *: https://github.com/osl-incubator/scicookie
 
@@ -56,7 +56,7 @@
 
 - Budget *: https://docs.google.com/spreadsheets/d/1WlYZVKB-9x3q2WAf0rhcCuukaEMUs7Xn-sE8BqBay-8/edit#gid=528073274
 
-- Introduction : 
+- Introduction:
 
   SciCookie, developed by Open Science Labs, is a versatile tool that
   generates projects from templates, streamlining the initial setup
@@ -95,15 +95,11 @@
   accepted, will allow us to raise awareness of our package and thus
   contribute to the development of the Python and open source community.  
 
-<<<<<<< HEAD
-=======
   This cookiecutter allows you to automate the process of
   creating a Python project using a template that has updated
   technologies that are considered the most appropriate. The options can
   be configured according to our needs.
 
-=======
->>>>>>> 92955ef (update proposal)
   SciCookie Team looking for Open Science Labs to grow and to be known
   by the Python community, we have promoted some Python meetings
   (pycafe) online. In the OSL discord the SciCookie Team maintain a
@@ -117,29 +113,6 @@
   wants to create a Python package.
 
   With this grant, we plan to contract 4 people from our current group
-<<<<<<< HEAD
-<<<<<<< HEAD
-  of collaborators in OSL. The main two developers are Yurely Camacho and Anavelyz Perez based in Merida-Venezuela, recently graduated in statistics and they are enthusiastic about open science and programming languages like Python. They contributed to the translation of the documentation at Spanish of the library scikit-learn. Additionaly, a project manager and one Senior developer that will perform the review and quality assurance will be contracted.
-=======
-  of collaborators in OSL. Yurely Camacho and Anavelyz Perez are
-  recently graduated in statistics, they live in Merida-Venezuela, and
-  they are enthusiastic about open science and programming languages
-  like Python. They contributed to the translation of the documentation
-<<<<<<< HEAD
-  at Spanish of the library scikit-learn. Additionally, we would be
-  contracting 2 more people from the community who would be responsible
-  for Project management and one Developer Senior for Review and quality
-  assurance.
->>>>>>> f522592 (add changes in proposal)
-=======
-  at Spanish of the library scikit-learn. They will work as developers,
-  each with an hourly intensity of 70 hours during the eight weeks of
-  the project. Additionally, we would be contracting 2 more people from
-  the community who would be responsible for Project management and one
-  Developer Senior for Review and quality assurance, these individuals
-  will have an hourly intensity of 10 and 20 hours, respectively.
->>>>>>> 92955ef (update proposal)
-=======
   of collaborators in OSL. The main two developers are Yurely Camacho
   and Anavelyz Perez based in Merida-Venezuela, recently graduated in
   statistics and they are enthusiastic about open science and
@@ -149,7 +122,6 @@
   of the project. Additionally, a Project manager and one Senior
   Developer for Review and quality assurance, these individuals will
   have an hourly intensity of 10 and 20 hours, respectively.
->>>>>>> 37ee8a2 (changes in proposal)
 
   This grant will also be accompanied and mentored mainly by Ivan Ogasawara, a
   member of the Open Science Labs steering council. He has been chair of

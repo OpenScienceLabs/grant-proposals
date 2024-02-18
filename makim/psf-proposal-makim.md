@@ -14,18 +14,17 @@ grappling with initial configuration complexities.
 
 Below are the responses to the PSF grant application form.
 
-
 ## Form
 
 - Contact
 
-  - Legal First Name*: Abhijeet
+   - Legal First Name*: Ivan
 
-  - Legal Last Name *: Saroha
+  - Legal Last Name *: Ogasawara
 
-  - Nickname: Abhijeet
+  - Nickname: xmnlab
 
-  - Email *: abhijeetsaroha08@gmail.com
+  - Email *: ivan.ogasawara@gmail.com
 
 - Address (selection)
 
@@ -64,13 +63,13 @@ Below are the responses to the PSF grant application form.
 
 - Event’s/project’s website *: https://github.com/osl-incubator/makim
 
-- Requested Grant Amount (USD) *: 
+- Requested Grant Amount (USD) *: 2250
 
 - Grant Amount Breakdown *: The money will be used for development work,
   maintenance, project management and review.
 
 - Budget *: 
-
+https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstGDmo/edit?usp=sharing
 
 - Objective *:
 
@@ -119,7 +118,6 @@ Below are the responses to the PSF grant application form.
   mission of supporting and promoting the Python programming language and its 
   community.
 
-
 - Beneficiaries *:
 
   With the support of this grant, the project will provide opportunities for 
@@ -143,8 +141,6 @@ Below are the responses to the PSF grant application form.
       and resource allocation aspects of Makim's development. Their role is 
       pivotal in ensuring smooth project execution and timely delivery of 
       milestones. He will dedicate 10 hours to the project over the duration.
-
-
 
   3. **Senior Developer (Review and Quality Assurance)**:
 

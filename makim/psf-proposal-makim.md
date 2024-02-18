@@ -59,7 +59,7 @@ Below are the responses to the PSF grant application form.
 
 - FAQ & Grants Program Info *: I have read and understand these pages.
 
-- Date *: 19/02/2024
+- Date *: 02/19/2024
 
 - Event’s/project’s website *: https://github.com/osl-incubator/makim
 

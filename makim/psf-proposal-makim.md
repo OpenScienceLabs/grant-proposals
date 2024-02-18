@@ -134,7 +134,7 @@ Below are the responses to the PSF grant application form.
       Technology, Abhijeet brings enthusiasm and fresh perspectives to the 
       project. He has previously contributed to the Makim project and will 
       continue to play a key role in its enhancement. Abhijeet will dedicate 
-      approximately 70 hours per week over the duration (12 weeks) of the 
+      approximately 90-100 hours over the duration (12 weeks) of the 
       project, actively contributing to its development and implementation.
 
   2. **Project Manager**:

@@ -123,11 +123,20 @@ https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstG
 
       The senior developer will focus on reviewing code contributions, 
       ensuring   adherence to project standards, and maintaining code quality. 
-      Their expertise in Python development and quality assurance practices will be invaluable in upholding Makim's integrity. He will dedicate 20 hours to the project over the duration.
+      Their expertise in Python development and quality assurance practices 
+      will be invaluable in upholding Makim's integrity. He will dedicate 20 
+      hours to the project over the duration.
 
   3. **Mentorship and Guidance**:
 
-      Ivan Ogasawara, a key member of the Open Science Labs steering council, will provide mentorship for the grant. Ivan has experience in community engagement, project management, and served as chair for the SciPy Latin America 2016 conference. He is the founder of Open Science Labs, established in 2015, and has developed several open source Python libraries, including Makim. His work focuses on supporting open source projects and facilitating opportunities for new contributors through programs like the Incubator Program and Internship Program.
+      Ivan Ogasawara, a key member of the Open Science Labs steering council, 
+      will provide mentorship for the grant. Ivan has experience in community 
+      engagement, project management, and served as chair for the SciPy Latin 
+      America 2016 conference. He is the founder of Open Science Labs, 
+      established in 2015, and has developed several open source Python 
+      libraries, including Makim. His work focuses on supporting open source 
+      projects and facilitating opportunities for new contributors through 
+      programs like the Incubator Program and Internship Program.
 
 - Regional Support
 

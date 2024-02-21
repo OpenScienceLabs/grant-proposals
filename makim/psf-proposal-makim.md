@@ -1,19 +1,14 @@
 # Proposal for Python Software Foundation: Makim
 
-Makim is a Python-based automation tool designed to simplify project 
-management. Using YAML configuration, it streamlines setup and supports various 
-programming languages. With Makim, users can specify interpreters, debug code, 
-and define targets as dependencies effortlessly. Its user-friendly CLI 
-interface, powered by Typer, ensures ease of use. Makim draws parallels to 
-tools like Make and Ansible, offering flexibility and simplicity in project 
-workflows.
+Makim is a Python-based automation tool designed for effortless project 
+management. It simplifies setup using YAML configuration and supports various 
+programming languages. With an intuitive CLI powered by Typer, users can 
+specify interpreters, debug code, and define dependencies seamlessly.
 
-Makim helps both DevOps Engineers and Software Developers by making their work 
-easier. It's simple to use and supports different programming languages, making 
-tasks like automation and project management a breeze. With Makim, setting up 
-and debugging projects becomes effortless, allowing users to spend more time 
-coding and less time worrying about setup. It's all about making work smoother 
-and more efficient.
+Catering to DevOps Engineers and Software Developers, Makim streamlines tasks 
+without redundancy. Its versatile language support makes automation and project 
+management easy. By minimizing setup complexities, Makim frees users to focus 
+on coding. Its goal is to enhance work efficiency and streamline workflows.
 
 Below are the responses to the PSF grant application form.
 

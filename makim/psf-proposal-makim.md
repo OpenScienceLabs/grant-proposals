@@ -61,7 +61,7 @@ Below are the responses to the PSF grant application form.
 
 - Event’s/project’s website *: https://github.com/osl-incubator/makim
 
-- Requested Grant Amount (USD) *: 2250
+- Requested Grant Amount (USD) *: 2525
 
 - Grant Amount Breakdown *: The money will be used for development work,
   maintenance, project management and review.
@@ -104,7 +104,7 @@ https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstG
       The developer, Abhijeet, based in India, worked as an intern and remains
       committed to advancing the Makim project. Having previously contributed
       to Makim, Abhijeet aims to continue his involvement, dedicating
-      approximately 90-100 hours over the 12-week duration to further enhance
+      approximately 100-110 hours over the 12-week duration to further enhance
       the project's development and implementation.
 
   2. **Project Manager**:
@@ -112,17 +112,17 @@ https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstG
       A dedicated project manager will oversee the coordination, scheduling, 
       and resource allocation aspects of Makim's development. Their role is 
       pivotal in ensuring smooth project execution and timely delivery of 
-      milestones. He will dedicate 10 hours to the project over the duration.
+      milestones. He will dedicate about 15 hours to the project over the duration.
 
   3. **Senior Developer (Review and Quality Assurance)**:
 
       The senior developer will focus on reviewing code contributions, 
-      ensuring   adherence to project standards, and maintaining code quality. 
+      ensuring adherence to project standards, and maintaining code quality. 
       Their expertise in Python development and quality assurance practices 
       will be invaluable in upholding Makim's integrity. He will dedicate 20 
       hours to the project over the duration.
 
-  3. **Mentorship and Guidance**:
+  4. **Mentorship and Guidance**:
 
       Ivan Ogasawara, a key member of the Open Science Labs steering council, 
       will provide mentorship for the grant. Ivan has experience in community 
@@ -133,16 +133,17 @@ https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstG
       projects and facilitating opportunities for new contributors through 
       programs like the Incubator Program and Internship Program.
 
-- Fiscal Sponsor *:
-  Makim is developed as part of the Open Science Labs Incubator Program. 
-  Consequently, funding for the Makim project is administratively managed 
-  through the fiscal sponsor of Open Science Labs, "The Global Research and 
-  Analyses for Public Health (GRAPH) Network," legally represented by ASCRES. 
-  This arrangement ensures that financial contributions towards Makim are 
-  received and processed in compliance with a commitment to transparency and 
-  ethical practices. ASCRES/The GRAPH Network, located in Geneva, Switzerland, 
-  provides the necessary legal and fiscal oversight, facilitating the project's 
-  ability to receive funds effectively and efficiently.
+   5. **Fiscal Sponsor**:
+      Makim is developed as part of the Open Science Labs Incubator Program. 
+      Consequently, funding for the Makim project is administratively managed 
+      through the fiscal sponsor of Open Science Labs, "The Global Research and 
+      Analyses for Public Health (GRAPH) Network," legally represented by 
+      ASCRES. This arrangement ensures that financial contributions towards 
+      Makim are received and processed in compliance with a commitment to 
+      transparency and ethical practices. ASCRES/The GRAPH Network, located in 
+      Geneva, Switzerland, provides the necessary legal and fiscal oversight, 
+      facilitating the project's ability to receive funds effectively and 
+      efficiently.
 
 - Regional Support
 

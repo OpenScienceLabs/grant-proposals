@@ -16,7 +16,7 @@ Below are the responses to the PSF grant application form.
 
 - Contact
 
-   - Legal First Name*: Ivan
+  - Legal First Name*: Ivan
 
   - Legal Last Name *: Ogasawara
 
@@ -42,13 +42,13 @@ Below are the responses to the PSF grant application form.
 
 - Organization
   
-  - Organization Name: Open Science Labs
+  - Organization Name: Makim
 
-  - Organization Email: team@opensciencelabs.org
+  - Organization Email: makimdev@gmail.com
 
-  - Twitter Handle: @opensciencelabs/
+  - Twitter Handle: @makimdev
 
-  - Website: https://opensciencelabs.org/
+  - Website: https://osl-incubator.github.io/makim
 
   - Grant Type *: Development work
 
@@ -132,6 +132,17 @@ https://docs.google.com/spreadsheets/d/1k0DV6nWafk4YvD73u5hXIKcdBnvJfuZ38QGgQstG
       libraries, including Makim. His work focuses on supporting open source 
       projects and facilitating opportunities for new contributors through 
       programs like the Incubator Program and Internship Program.
+
+- Fiscal Sponsor *:
+  Makim is developed as part of the Open Science Labs Incubator Program. 
+  Consequently, funding for the Makim project is administratively managed 
+  through the fiscal sponsor of Open Science Labs, "The Global Research and 
+  Analyses for Public Health (GRAPH) Network," legally represented by ASCRES. 
+  This arrangement ensures that financial contributions towards Makim are 
+  received and processed in compliance with a commitment to transparency and 
+  ethical practices. ASCRES/The GRAPH Network, located in Geneva, Switzerland, 
+  provides the necessary legal and fiscal oversight, facilitating the project's 
+  ability to receive funds effectively and efficiently.
 
 - Regional Support
 

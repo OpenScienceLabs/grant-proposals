@@ -71,7 +71,7 @@ Below are the content for the PSF grant application form.
 
 - Event’s/project’s website \*: https://github.com/osl-incubator/makim
 
-- Requested Grant Amount (USD) \*: 2525
+- Requested Grant Amount (USD) \*: $2,340.00
 
 - Grant Amount Breakdown \*: The money will be used for development work,
   maintenance, project management and review.

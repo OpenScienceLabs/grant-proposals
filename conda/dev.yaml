@@ -1,0 +1,6 @@
+name: osl-proposals
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - pre-commit

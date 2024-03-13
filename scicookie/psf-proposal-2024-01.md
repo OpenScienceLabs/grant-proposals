@@ -11,24 +11,23 @@ unique aspects of their work rather than initial configuration.
 
 Below are the responses to the PSF grant application form.
 
-
 ## Form
 
 - Contact
 
-  - Legal First Name*: Ivan
+  - Legal First Name\*: Ivan
 
-  - Legal Last Name *: Ogasawara
+  - Legal Last Name \*: Ogasawara
 
   - Nickname: xmnlab
 
-  - Email *: ivan.ogasawara@gmail.com
+  - Email \*: ivan.ogasawara@gmail.com
 
 - Address (selection)
 
-  - City *:
+  - City \*:
 
-  - Country*:
+  - Country\*:
 
   - State/Province/Region:
 
@@ -38,10 +37,10 @@ Below are the responses to the PSF grant application form.
 
   - Postal Code Suffix:
 
-  - Phone Number *:
+  - Phone Number \*:
 
 - Organization
-  
+
   - Organization Name: Open Science Labs
 
   - Organization Email: opensciencelabs@gmail.com
@@ -50,29 +49,26 @@ Below are the responses to the PSF grant application form.
 
   - Website: https://opensciencelabs.org/
 
-  - Grant Type *: Development work
+  - Grant Type \*: Development work
 
-  - Grant Title *: OSL SciCookie
+  - Grant Title \*: OSL SciCookie
 
+- FAQ & Grants Program Info \*: I have read and understand these pages.
 
-- FAQ & Grants Program Info *: I have read and understand these pages.
+- Date \*: 02/06/2024
 
-- Date *: 02/06/2024
+- Event’s/project’s website \*: https://github.com/osl-incubator/scicookie
 
-- Event’s/project’s website *: https://github.com/osl-incubator/scicookie
+- Requested Grant Amount (USD) \*: 2850
 
-- Requested Grant Amount (USD) *: 2850
-
-- Grant Amount Breakdown *: The money will be used for development work,
+- Grant Amount Breakdown \*: The money will be used for development work,
   maintenance, project management and review.
 
-- Budget *:
+- Budget \*:
   https://docs.google.com/spreadsheets/d/1WlYZVKB-9x3q2WAf0rhcCuukaEMUs7Xn-sE8BqBay-8/edit#gid=528073274
 
+- Objective \*:
 
-- Objective *:
-
-  
   Enhance the SciCookie project template by reducing technical debt related to
   maintenance, dependencies and build system. Currently, this template project
   tool allows the user to automate the process of creating a Python project with
@@ -104,8 +100,7 @@ Below are the responses to the PSF grant application form.
   strengthen the Python and open source community by promoting best practices
   and standards for scientific research.
 
-
-- Beneficiaries *:
+- Beneficiaries \*:
 
   In general, although we are focusing on the scientific Python community, this
   cookiecutter template could be used by anyone who wants to create a Python
@@ -130,14 +125,14 @@ Below are the responses to the PSF grant application form.
 
 - Regional Support
 
-    The remain funding would be used to maintain the template updated.
+  The remain funding would be used to maintain the template updated.
 
-- Link to Code of Conduct *:
+- Link to Code of Conduct \*:
   https://opensciencelabs.org/guidelines/mentoring/en/coc/
 
-- Percentage of Python *: 100%
+- Percentage of Python \*: 100%
 
-- Follow-up activities *:
+- Follow-up activities \*:
 
-    As a follow up activity, we plan to have a blog post about all updates done
-    via this grant.
+  As a follow up activity, we plan to have a blog post about all updates done
+  via this grant.

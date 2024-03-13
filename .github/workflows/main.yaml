@@ -32,4 +32,4 @@ jobs:
       - name: Run style checks
         run: |
           pre-commit install
-          makim tests.lint
+          pre-commit run --all-files

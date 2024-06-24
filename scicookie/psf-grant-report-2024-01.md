@@ -1,19 +1,17 @@
 # Python Software Foundation (PSF) Grant report: SciCookie
 
-In January 2024 the PSF approved a new grant for SciCookie, the proposal was
-submitted at the end of December 2023 and will be implemented between February
-and April 2024\*, during which time we have been carrying out the following
-tasks:
+In January 2024, the PSF approved a new grant for SciCookie. The proposal was
+submitted at the end of December 2023 and is scheduled for implementation
+between February and April 2024\*. During this period, we have undertaken the
+following tasks:
 
-- Improve the documentation: to make it clearer, more complete and more
-  accessible to new users.
-- Improve configuration aspects: to facilitate the installation and use of
-  SciCookie.
-- Incorporate and/or update libraries and other tools: to extend the
-  functionalities.
-- Improve file structure: to make the code more organized and easier to
-  maintain.
-- Apply for pyOpenSci peer review: to obtain quality certification of the
+- Documentation Improvement: Enhancing clarity, completeness, and accessibility
+  for new users.
+- Configuration Enhancement: Simplifying SciCookie installation and usage.
+- Library Integration and Updates: Expanding functionalities through new
+  libraries and tools.
+- File Structure Refinement: Organizing code for improved maintenance.
+- pyOpenSci Peer Review Application: Pursuing quality certification for the
   tool.\*\*
 
 Below are the responses to the event report submitted to PSF.
@@ -84,38 +82,30 @@ Below are the responses to the event report submitted to PSF.
 - If you would like to share a quote about what the PSF grant means to your
   organization (that can be used for marketing purposes), please enter it below.
 
-  The PSF grant has fueled a remarkable transformation of the SciCookie tool,
-  enabling enhancements to its configuration, making new user customizations,
-  and maintaining the tool altogether.
+  The PSF grant has catalyzed a significant transformation of the SciCookie
+  tool, enabling improvements in configuration, user customization, and overall
+  maintenance.
 
-  This positive impact extends beyond the tool itself to the community members,
-  whose skills have been enhanced in a number of areas:
+  This impact extends beyond the tool itself to community members, enhancing
+  their skills in various areas:
 
-  - Project implementation and organization: The management experience gained
-    from the SciCookie project has provided the community members with the
-    necessary tools to manage different projects and organize them towards their
-    completion in the easiest way possible.
+  - Project Management: The SciCookie project has equipped community members
+    with valuable experience in project implementation and organization.
 
-  - Problem solving and investigation: The whole SciCookie development process
-    involved a number of technical problems and therefore required systematic
-    troubleshooting, which enhanced this attribute in the participants.
+  - Problem-Solving: Participants honed their skills in systematic
+    troubleshooting throughout the development process.
+  - Innovative Thinking: Finding creative solutions to technical challenges has
+    fostered a culture of exploring alternatives effectively.
+  - Collaborative Communication: The project's collaborative nature has promoted
+    open communication, encouraging participants to ask questions, share ideas,
+    and propose solutions.
+  - Promotion of Python: Contributing to SciCookie has deepened community
+    members' knowledge of Python, potentially promoting its use in scientific
+    contexts.
 
-  - Efficient Alternative Seeking: The need to find creative solutions to
-    technical hurdles has improved participants' ability to effectively explore
-    and evaluate different alternatives.
-
-  - Inquiry and Suggestion Facilitation: The collaborative nature of the project
-    has fostered a culture of open communication, where participants feel
-    comfortable raising questions, sharing ideas, and proposing solutions.
-
-  - Diffusion of the Python Programming Language: By participating in the
-    development of SciCookie, members of the community have been able to improve
-    their knowledge about Python, which could potentially help them to spread
-    this programming language within the scientific environment.
-
-  Open Science Labs would like to thank the PSF for the grant we received. It
-  has been a great support for the development of SciCookie and to contribute to
-  the professional and technical growth of our community.
+  Open Science Labs expresses gratitude to the PSF for their grant, which has
+  significantly supported the development of SciCookie and contributed to the
+  professional and technical growth of our community.
 
 - Photos & Photographer Credit _Please link any photos you have of the event. If
   the photos are not online please send in email. If available, please share who
@@ -135,11 +125,11 @@ Below are the responses to the event report submitted to PSF.
 
   _Did anyone stand out?_
 
-  Anavelyz and Yurely were in charge of resolving the issues. Ever Vino was in
-  charge of coordinating the timing and checking any blockages during the
-  execution of the project, he also helped the participants with some of their
-  doubts. Ivan Ogasawara was the one responsible for reviewing and approving the
-  issues, as well as the suggestions and the path of wisdom.
+  In general, Anavelyz and Yurely were in charge of resolving the issues. Ever
+  Vino was in charge of coordinating the timing and checking any blockages
+  during the execution of the project, he also helped the participants with some
+  of their doubts. Ivan Ogasawara was the one responsible for reviewing and
+  approving the issues, as well as the suggestions and the path of wisdom.
 
 - Participant Feedback _Did the people that attend have anything to say_ Thanks
   to PSF for the grant we received, it has allowed us to acquire new knowledge
@@ -149,13 +139,13 @@ Below are the responses to the event report submitted to PSF.
 - Retrospective _Discuss what worked out well and what you would change for the
   next time if there is anything planned._
 
-  We're pleased to report an 80% success rate for the grant implementation. This
-  grant served as a valuable second chance to address previously identified
-  areas for improvement within SciCookie, resulting in significant progress.
+  We are pleased to report an 80% success rate in implementing the grant. This
+  opportunity has been invaluable in addressing identified areas for improvement
+  within SciCookie, resulting in substantial progress.
 
-  However, a roadblock emerged related to PyOpenSci's lack of peer review for
-  tools. We're actively collaborating with them to explore the possibility of
-  establishing a review standard for tools like SciCookie in the near future.
+  However, we encountered a challenge with the absence of a peer review process
+  from PyOpenSci for tools like SciCookie. We are actively collaborating with
+  them to explore establishing a review standard in the near future.
 
 - General Feedback _Anything else you want to say that didn't fit in anywhere
   else?_

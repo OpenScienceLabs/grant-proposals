@@ -146,7 +146,7 @@ Below are the responses to the event report submitted to PSF.
   was that SciCookie is considered a tool and not a library (package) and we do
   not fit into its package scope either, despite this we make sure to comply
   with the quality requirements (tests, CI configuration, documentation), we
-  have also initiated communications with Leah Wasser, CEO of pyOpenSci, who has
+  have also initiated communications with [Leah Wasser](https://github.com/lwasser), CEO of pyOpenSci, who has
   directly reviewed the use of SciCookie for pyOpenSci's needs as a project
   template to recommend to its community . Based on her reviews and suggestions,
   SciCookie has been improved to meet her main expectations. Leah has also

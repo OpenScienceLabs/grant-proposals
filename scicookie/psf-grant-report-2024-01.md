@@ -128,7 +128,7 @@ Below are the responses to the event report submitted to PSF.
   In general, Anavelyz and Yurely were in charge of resolving the issues. Ever
   Vino was in charge of coordinating the timing and checking any blockages
   during the execution of the project, he also helped the participants with some
-  of their doubts. Ivan was responsible for improving the sci cookie structure,
+  of their doubts. Ivan was responsible for improving the SciCookie structure,
   which helped a lot to solve the issues, he was also in charge of reviewing and
   approving the issues.
 

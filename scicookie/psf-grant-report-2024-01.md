@@ -146,15 +146,16 @@ Below are the responses to the event report submitted to PSF.
   was that SciCookie is considered a tool and not a library (package) and we do
   not fit into its package scope either, despite this we make sure to comply
   with the quality requirements (tests, CI configuration, documentation), we
-  have also initiated communications with [Leah Wasser](https://github.com/lwasser), CEO of pyOpenSci, who has
-  directly reviewed the use of SciCookie for pyOpenSci's needs as a project
-  template to recommend to its community . Based on her reviews and suggestions,
-  SciCookie has been improved to meet her main expectations. Leah has also
-  started creating a profile (default configuration set) specific to pyOpenSci
-  at [SciCookie](https://github.com/osl-incubator/scicookie/pull/273). Due to
-  her priorities and schedule, this work is still in progress. We have learned
-  that it is necessary to pay special attention to milestones and do a double
-  check when there are milestones that involve third parties.
+  have also initiated communications with
+  [Leah Wasser](https://github.com/lwasser), CEO of pyOpenSci, who has directly
+  reviewed the use of SciCookie for pyOpenSci's needs as a project template to
+  recommend to its community . Based on her reviews and suggestions, SciCookie
+  has been improved to meet her main expectations. Leah has also started
+  creating a profile (default configuration set) specific to pyOpenSci at
+  [SciCookie](https://github.com/osl-incubator/scicookie/pull/273). Due to her
+  priorities and schedule, this work is still in progress. We have learned that
+  it is necessary to pay special attention to milestones and do a double check
+  when there are milestones that involve third parties.
 
 - General Feedback _Anything else you want to say that didn't fit in anywhere
   else?_

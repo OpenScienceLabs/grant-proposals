@@ -143,7 +143,7 @@ Below are the responses to the event report submitted to PSF.
   We are happy and grateful to have met most of the milestones presented in the
   grant proposal. Regarding the milestone referred to "Apply to PyOpenSci" we
   have found some details that we did not take into consideration, one of them
-  was that scicookie is considered a tool and not a library (package) and we do
+  was that SciCookie is considered a tool and not a library (package) and we do
   not fit into its package scope either, despite this we make sure to comply
   with the quality requirements (tests, CI configuration, documentation), we
   have also initiated communications with Leah Wasser, CEO of pyOpenSci, who has

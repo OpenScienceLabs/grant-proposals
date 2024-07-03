@@ -128,8 +128,9 @@ Below are the responses to the event report submitted to PSF.
   In general, Anavelyz and Yurely were in charge of resolving the issues. Ever
   Vino was in charge of coordinating the timing and checking any blockages
   during the execution of the project, he also helped the participants with some
-  of their doubts. Ivan Ogasawara was the one responsible for reviewing and
-  approving the issues, as well as the suggestions and the path of wisdom.
+  of their doubts. Ivan was responsible for improving the SciCookie structure,
+  which helped a lot to solve the issues, he was also in charge of reviewing and
+  approving the issues.
 
 - Participant Feedback _Did the people that attend have anything to say_ Thanks
   to PSF for the grant we received, it has allowed us to acquire new knowledge
@@ -139,13 +140,22 @@ Below are the responses to the event report submitted to PSF.
 - Retrospective _Discuss what worked out well and what you would change for the
   next time if there is anything planned._
 
-  We are pleased to report an 80% success rate in implementing the grant. This
-  opportunity has been invaluable in addressing identified areas for improvement
-  within SciCookie, resulting in substantial progress.
-
-  However, we encountered a challenge with the absence of a peer review process
-  from PyOpenSci for tools like SciCookie. We are actively collaborating with
-  them to explore establishing a review standard in the near future.
+  We are happy and grateful to have met most of the milestones presented in the
+  grant proposal. Regarding the milestone referred to "Apply to PyOpenSci" we
+  have found some details that we did not take into consideration, one of them
+  was that SciCookie is considered a tool and not a library (package) and we do
+  not fit into its package scope either, despite this we make sure to comply
+  with the quality requirements (tests, CI configuration, documentation), we
+  have also initiated communications with
+  [Leah Wasser](https://github.com/lwasser), Executive Director of pyOpenSci,
+  who has directly reviewed the use of SciCookie for pyOpenSci's needs as a
+  project template to recommend to its community . Based on her reviews and
+  suggestions, SciCookie has been improved to meet her main expectations. Leah
+  has also started creating a profile (default configuration set) specific to
+  pyOpenSci at [SciCookie](https://github.com/osl-incubator/scicookie/pull/273).
+  Due to her priorities and schedule, this work is still in progress. We have
+  learned that it is necessary to pay special attention to milestones and do a
+  double check when there are milestones that involve third parties.
 
 - General Feedback _Anything else you want to say that didn't fit in anywhere
   else?_

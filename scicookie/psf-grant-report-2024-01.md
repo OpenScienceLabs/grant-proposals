@@ -28,7 +28,7 @@ Below are the responses to the event report submitted to PSF.
   _Tell us when your event happened. If the event is over multiple days, tell us
   what happened on each day._
 
-  Feb 6, 2024 to June 21, 2024.
+  Feb 6, 2024 to June 31, 2024.
 
 - Sessions:
 
@@ -45,39 +45,52 @@ Below are the responses to the event report submitted to PSF.
 
   _Please describe the location. Was there something good or bad about it?_
 
-  The activity was conducted remotely
+  The activity was conducted remotely.
 
 - Attendees
 
   _Please include the numbers and their breakdown of gender, experience level,
   and origin._
 
-  Not applicable (There weren't formal presentations in this case)
+  Not applicable (There weren't formal presentations in this case).
 
 - Speakers/Coaches _Please include the number and their breakdown of gender and
   experience level_
 
-  Not applicable (There weren't formal presentations in this case)
+  Not applicable (There weren't formal presentations in this case).
 
 - Staff \_Please include the number, position, and their breakdown of gender and
   experience level. Was the staff paid? If so, who paid them?
 
-  Not applicable (There weren't formal presentations in this case)
+  Four people were directly involved in the project, two women and two men, all
+  of whom were paid from the budget money.
+
+  The payment has been given through Ivan Ogasawara, who has received the
+  project funds.
+
+  Main Developers: Anavelyz Perez (Female) and Yurely Camacho (Female) with
+  junior software developer level.
+
+  Project Manager: Ever Vino (Male); with mid-level experience in software
+  development.
+
+  Tech leader and reviewer: Ivan Ogasawara (Male); with senior-level experience
+  in software development.
 
 - Sponsors _How many sponsors did you have? Please list them and their
   sponsorship level._
 
-  Not applicable (There weren't formal presentations in this case)
+  In this case we have no other sponsor involved.
 
 - Budget: Income _Please include breakdown ticket Sales vs. other Sponsors vs.
   PSF funds_
 
-  Not applicable (There weren't formal presentations in this case)
+  Income only from PSF.
 
 - Budget: Spending _Please include the breakdown of all expenses such as swag,
   venue, food, surplus if any and where the surplus went._
 
-  Not applicable (There weren't formal presentations in this case)
+  Spending only associated to staff.
 
 - If you would like to share a quote about what the PSF grant means to your
   organization (that can be used for marketing purposes), please enter it below.
@@ -125,17 +138,11 @@ Below are the responses to the event report submitted to PSF.
 
   _Did anyone stand out?_
 
-  In general, Anavelyz and Yurely were in charge of resolving the issues. Ever
-  Vino was in charge of coordinating the timing and checking any blockages
-  during the execution of the project, he also helped the participants with some
-  of their doubts. Ivan was responsible for improving the SciCookie structure,
-  which helped a lot to solve the issues, he was also in charge of reviewing and
-  approving the issues.
+  Not applicable (There weren't formal presentations in this case)
 
-- Participant Feedback _Did the people that attend have anything to say_ Thanks
-  to PSF for the grant we received, it has allowed us to acquire new knowledge
-  and in turn contribute by learning, it has given us the impetus and
-  encouragement to share our knowledge and improve every day.
+- Participant Feedback _Did the people that attend have anything to say_.
+
+  Not applicable (There weren't formal presentations in this case)
 
 - Retrospective _Discuss what worked out well and what you would change for the
   next time if there is anything planned._
@@ -159,6 +166,10 @@ Below are the responses to the event report submitted to PSF.
 
 - General Feedback _Anything else you want to say that didn't fit in anywhere
   else?_
+
+  Thanks to PSF for the grant we received, it has allowed us to acquire new
+  knowledge and in turn contribute by learning, it has given us the impetus and
+  encouragement to share our knowledge and improve every day.
 
 [*] This time was extended because the activities required study time from the
 participants.

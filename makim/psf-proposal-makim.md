@@ -131,7 +131,17 @@ Below are the content for the PSF grant application form.
      invaluable in upholding Makim's integrity. He will dedicate 20 hours to the
      project over the duration.
 
-  4. **Mentorship and Guidance**:
+  4. **Social Media Manager**:
+     Mfonobong Uyah, as the Social Media Manager, will play a crucial role 
+     in enhancing Makim's online presence and community engagement. He 
+     will develop and implement strategies to promote project updates, 
+     engage with followers, and foster a vibrant online community. By 
+     dedicating around 20 hours to the project over the duration, 
+     Mfonobong will ensure consistent communication, highlight key 
+     milestones, and drive interest in Makim through various social media 
+     platforms.
+
+  5. **Mentorship and Guidance**:
 
      Ivan Ogasawara, a key member of the Open Science Labs steering council,
      will provide mentorship for the grant. Ivan has experience in community
@@ -142,7 +152,7 @@ Below are the content for the PSF grant application form.
      projects and facilitating opportunities for new contributors through
      programs like the Incubator Program and Internship Program.
 
-  5. **Fiscal Sponsor**: Makim is developed under the Open Science Labs
+  6. **Fiscal Sponsor**: Makim is developed under the Open Science Labs
      Incubator Program. Consequently, funding for the Makim project is
      administratively managed through the financial manager of Open Science
      Labs, "The Global Research and Analyses for Public Health (GRAPH) Network,"

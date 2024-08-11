@@ -1,26 +1,49 @@
-# Proposal for Python Software Foundation: Makim
+# Proposal for Python Software Foundation: Support for Open Science Labs Incubated/Affiliated Projects: Makim and ASTx
 
-Makim is a Python-based automation tool designed for effortless project
-management. It simplifies setup using YAML configuration and supports various
-programming languages. With an intuitive CLI powered by Typer, users can specify
-interpreters, debug code, and define dependencies seamlessly.
+Open Science Labs (OSL) actively supports and incubates projects that contribute
+significantly to the open source ecosystem. Our community is dedicated to
+enhancing the visibility and development of these projects, notably through our
+Internship Program. This program not only offers mentoring but also aids in the
+career development of its participants. Additionally, selected projects have the
+opportunity to be featured in prestigious initiatives such as the Google Summer
+of Code.
 
-Catering to DevOps Engineers and Software Developers, Makim streamlines tasks
-without redundancy. Its versatile language support makes automation and project
-management easy. By minimizing setup complexities, Makim frees users to focus on
-coding. Its goal is to enhance work efficiency and streamline workflows.
+OSL also assists participants in securing funds to continue their contributions
+to projects while advancing their professional growth.
 
-Makim supports multiple backends for executing code, enabling the use of various
-programming languages within the Makim configuration file, including Python. By
-default, Makim employs Xonsh - a shell language and command-line interface that
-augments Python 3.6+ by integrating shell primitives from Bash and IPython, thus
-offering a robust scripting environment. Compatible with key operating systems
-like Linux, macOS, and Windows, Xonsh is tailored to streamline shell commands
-and scripting using Python's syntax. It strives to offer a flexible interface to
-accommodate users of all skill levels, from novices to experts, facilitating a
-broad spectrum of daily computing activities.
+This proposal seeks funding from the Python Software Foundation to accelerate
+the development of two projects under the OSL Umbrella: Makim and ASTx. Through
+this support, we aim to expand their impact and functionality, benefiting both
+the Python community and the broader open source landscape.
 
-Below are the content for the PSF grant application form.
+## Makim
+
+Makim is a versatile Python-based automation tool that simplifies project
+management across various programming environments. It utilizes a YAML
+configuration for easy setup and a Typer-powered command-line interface,
+allowing users to manage interpreters, dependencies, and debugging tasks
+efficiently. Makim supports multiple backends for code execution, including
+Xonsh, which combines the best features of Bash and IPython to create a powerful
+scripting environment. This compatibility across major operating systems like
+Linux, macOS, and Windows (via WSL), alongside its ability to streamline DevOps
+tasks and software development processes, makes Makim a handy tool for enhancing
+productivity and simplifying complex workflows. For more information, please
+check out its official documentation:
+[Makim Documentation](https://osl-incubator.github.io/makim).
+
+## ASTx
+
+ASTx is a versatile framework designed to construct and represent Abstract
+Syntax Trees (ASTs) in a language-agnostic manner. It provides a flexible
+structure usable across various programming languages and parsing tools.
+Although not a lexer or parser, ASTx integrates with any Python-written parser
+to offer a high-level representation of ASTs. Within the ArxLang project,
+particularly in the IRx library, ASTx serves as the input that is converted to
+LLVM IR via llvmlite, and subsequently into binary code. The ArxLang team aims
+for ASTx to be a useful tool for any Python-based compiler, enabling
+straightforward representation of ASTs and seamless integration with IRx for
+automatic compilation into binary code. For more information, please check out
+its official documentation: [Makim Documentation](https://astx.arxlang.org).
 
 ## Form
 
@@ -52,24 +75,24 @@ Below are the content for the PSF grant application form.
 
 - Organization
 
-  - Organization Name: Makim
+  - Organization Name: Open Science Labs
 
-  - Organization Email: makimdev@gmail.com
+  - Organization Email: team@opensciencelabs.org
 
-  - Twitter Handle: @makimdev
+  - Twitter Handle: @opensciencelabs
 
-  - Website: https://osl-incubator.github.io/makim
+  - Website: https://opensciencelabs.org
 
   - Grant Type \*: Development work
 
-  - Grant Title \*: Adding new features to Makim: scheduled jobs, matrix
-    strategies, interactive input, and support for windows.
+  - Grant Title \*: Support for Open Science Labs Incubated/Affiliated Projects:
+    Makim and ASTx.
 
 - FAQ & Grants Program Info \*: I have read and understand these pages.
 
-- Date \*: 20/05/2024
+- Date \*: 01/10/2024
 
-- Event’s/project’s website \*: https://github.com/osl-incubator/makim
+- Event’s/project’s website \*: https://opensciencelabs.org
 
 - Requested Grant Amount (USD) \*: $2,340.00
 
@@ -131,15 +154,13 @@ Below are the content for the PSF grant application form.
      invaluable in upholding Makim's integrity. He will dedicate 20 hours to the
      project over the duration.
 
-  4. **Social Media Manager**:
-     Mfonobong Uyah, as the Social Media Manager, will play a crucial role 
-     in enhancing Makim's online presence and community engagement. He 
-     will develop and implement strategies to promote project updates, 
-     engage with followers, and foster a vibrant online community. By 
-     dedicating around 20 hours to the project over the duration, 
-     Mfonobong will ensure consistent communication, highlight key 
-     milestones, and drive interest in Makim through various social media 
-     platforms.
+  4. **Social Media Manager**: Mfonobong Uyah, as the Social Media Manager, will
+     play a crucial role in enhancing Makim's online presence and community
+     engagement. He will develop and implement strategies to promote project
+     updates, engage with followers, and foster a vibrant online community. By
+     dedicating around 20 hours to the project over the duration, Mfonobong will
+     ensure consistent communication, highlight key milestones, and drive
+     interest in Makim through various social media platforms.
 
   5. **Mentorship and Guidance**:
 
@@ -154,14 +175,8 @@ Below are the content for the PSF grant application form.
 
   6. **Fiscal Sponsor**: Makim is developed under the Open Science Labs
      Incubator Program. Consequently, funding for the Makim project is
-     administratively managed through the financial manager of Open Science
-     Labs, "The Global Research and Analyses for Public Health (GRAPH) Network,"
-     legally represented by ASCRES. This arrangement ensures that financial
-     contributions towards Makim are received and processed in compliance with a
-     commitment to transparency and ethical practices. ASCRES/The GRAPH Network,
-     located in Geneva, Switzerland, provides the necessary fiscal oversight,
-     facilitating the project's ability to receive funds effectively and
-     efficiently.
+     administratively managed through the Open Science Labs fiscal host,
+     [Open Source Collective](https://opencollective.com/osl).
 
 - Regional Support
 
@@ -173,5 +188,5 @@ Below are the content for the PSF grant application form.
 
 - Follow-up activities \*:
 
-  As a follow up activity, we plan to have a blog post about all updates done
-  via this grant.
+  As a follow up activity, we plan to promote Makim and ASTx in conferences and
+  events.

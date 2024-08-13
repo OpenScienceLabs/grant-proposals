@@ -131,15 +131,13 @@ Below are the content for the PSF grant application form.
      invaluable in upholding Makim's integrity. He will dedicate 20 hours to the
      project over the duration.
 
-  4. **Social Media Manager**:
-     Mfonobong Uyah, as the Social Media Manager, will play a crucial role 
-     in enhancing Makim's online presence and community engagement. He 
-     will develop and implement strategies to promote project updates, 
-     engage with followers, and foster a vibrant online community. By 
-     dedicating around 20 hours to the project over the duration, 
-     Mfonobong will ensure consistent communication, highlight key 
-     milestones, and drive interest in Makim through various social media 
-     platforms.
+  4. **Social Media Manager**: Mfonobong Uyah, as the Social Media Manager, will
+     play a crucial role in enhancing Makim's online presence and community
+     engagement. He will develop and implement strategies to promote project
+     updates, engage with followers, and foster a vibrant online community. By
+     dedicating around 20 hours to the project over the duration, Mfonobong will
+     ensure consistent communication, highlight key milestones, and drive
+     interest in Makim through various social media platforms.
 
   5. **Mentorship and Guidance**:
 
